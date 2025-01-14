@@ -39,7 +39,7 @@ However, the application does not work as expected. Your job is to:
   - Include a `README.md` detailing the issues found, how you resolved them, and verification steps.
   - The code should be placed on GitHub or a similar platform so that we can review your changes.
 - **Validation**:
-  - Provide evidence of the fixed deploymenti
+  - Provide evidence of the fixed deployment
     - logs
     - screenshots of working Pods and Services
     - screenshots of terraform plans and applies
