@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: {{ include "rc-homework.fullname" . }}
-  namespace: homework
+  namespace: rc-homework
   labels:
     {{- include "rc-homework.labels" . | nindent 4 }}
 spec:
